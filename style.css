@@ -36,7 +36,6 @@ input:focus{
     outline: none;
 }
 
-
 .card{
     background-color: #3b2066;
     background-image: linear-gradient(315deg, #3b2066 0%, #4c11ac 74%);
